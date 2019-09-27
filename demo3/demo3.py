@@ -28,7 +28,6 @@ def mathc_img(Target,value):
     # cv2.imshow('Detected',img_rgb)
     # cv2.waitKey(0)
     # cv2.destroyAllWindows()
-
-Target=('target.png')
+Target=('D:\\git_project\\opencv-demo\\demo3\\target.png')
 value=0.9
 mathc_img(Target,value)
